@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000
+}
+
+div p {
+    background: fixed;
+    background-color: white;
+    white-space: pre;
+    font-family: monospace;
+    text-align: center;
+    margin: 0 auto;
+    width:  0 auto;
+    max-width: 120ch;
+}
+
+div {
+    position: relative;
+    margin: 0 auto;
+    width: 0 auto;
+    background: fixed;
+    overflow-x: hidden;
+    background-color: #000000;
+}
